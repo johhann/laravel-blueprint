@@ -1,0 +1,9 @@
+models:
+  Employee:
+    name: string
+    id_number: string
+    birthdate: datetime
+    salary: integer
+
+controllers:
+  # ...
